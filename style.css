@@ -1,0 +1,150 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #EAEDED;
+    margin: 0;
+}
+.logo{
+    background-color: #222F3E;
+}
+.color-white{
+    color: white;
+}
+.center-1{
+    text-align: center;
+}
+header img{
+    width: 10em;
+    padding: 0.5em;
+}
+header{
+    width: 100%;
+}
+ul{
+    display: inline;
+}
+ul li{
+    display: inline;
+    margin-right: 1em;
+
+}
+ul a{
+    color: white;
+    text-decoration: none;
+}
+.color-menu{
+    background-color:#354758;
+    margin: 0;
+    padding: 0.5em;
+}
+#orange{
+    background-color: #F56600;
+    text-align: center;
+    font-size: 1.3vw;
+    padding: 0.5vw;
+}
+#img-1{
+   
+    background-image: url(assets/bg-image.png );
+    text-align: center;
+    width: 100%;
+    height: 100%;       
+}
+#img-1 h1{
+    padding: 3rem 0;
+    padding-bottom: 0;
+    padding-top: 4rem;
+    font-size: 2.3em;
+    text-align: center;
+    margin-bottom: 0.1em;
+}
+#img-1 h5{
+    padding-bottom: 4em;
+}
+
+main{
+    margin: 1em;
+}
+section h3{
+    display: inline;
+    margin: 1em;
+
+}
+section a{
+    color:#2F6E60 ;
+    text-decoration: none;
+    font-weight: bolder;
+
+}
+a h4{
+    display: inline;
+}
+#bg-white{
+    background-color: white;
+    padding: 1em;
+}
+.box1 img{
+    object-fit: cover;
+    height: 25em;
+    width: 20em;
+    border-radius: 10px;
+    margin: 0.5em;
+    box-shadow: 4px 6px 8px rgba(0,0,0,0.58);
+    
+}
+#element1{
+    background-image: url(assets/img_1.jpg);
+}
+#element2{
+    background-image: url(assets/img_2.jpg);
+}
+#element3{
+    background-image: url(assets/img_3.jpg);
+}
+#element4{
+    background-image: url(assets/img_4.jpg);   
+}
+#container{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding-bottom: 0.2em;
+}
+.box2{
+    height: 30em;
+    background-size: cover;
+}
+#element5{
+    background-image: url(assets/img_9.png);
+    background-position: right;
+    margin-top: 2.2em;
+    
+}
+.center{
+    text-align: center;
+    margin-top: 0.3em;
+    margin-bottom: 1.5em;
+}
+#element6{
+    background-image: url(assets/img_10.png);
+    background-position: center;
+}
+#bottom1{
+    height: 2rem;
+    background-color: #354758;
+
+    text-align: center;
+    padding-top: 1.5em;
+}
+#bottom1 a{
+    color:white;
+}
+#bottom2{
+    text-align: center;
+    padding: 4em;
+    
+}
+
+
+
+
